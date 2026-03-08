@@ -3,7 +3,7 @@
 // Function to handle button click events
 function selectOption(option) {
     // Check which option was clicked
-    if (option === 'yes') {
+    if (option === 'yes :3') {
         // Flash rainbow colors
         flashRainbowColors(function() {
             document.getElementById('question').style.display = 'none'; // Hide the question
@@ -77,4 +77,5 @@ function displayCatHeart() {
 }
 
 // Display the cat.gif initially
+
 displayCat();
